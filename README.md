@@ -1,7 +1,7 @@
 # CartPolePPO
 
 ## 🎯 Project Overview
-This repository contains an implementation of Proximal Policy Optimization (PPO) for the CartPole-v1 environment using PyTorch and Gymnasium. It follows the specifications of CPEG 591 Assignment #10.
+This repository contains an implementation of Proximal Policy Optimization (PPO) for the CartPole-v1 environment using PyTorch and Gymnasium.
 
 ## ⚙️ Setup & Installation
 1. **Clone the repo**
